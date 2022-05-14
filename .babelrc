@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "qingui2",
+        "libraryDirectory": "packages"
+      },
+      "qingui2"
+    ]
+  ]
+}
